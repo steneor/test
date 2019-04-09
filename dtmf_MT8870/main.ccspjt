@@ -1,0 +1,91 @@
+[PROJECT]
+Target=main.hex
+Processor_Text=PIC16F690
+CCSVerions=5.081
+Compiler=PCM
+CCSVersion=5.081
+[Target Data]
+FileList=main.c
+[Directories]
+Include=
+[D:\Mes documents\CCS C Projects\dtmf_MT8870\main]
+Type=4
+[mru-list]
+1=main.c
+
+[fileformats]
+forcecoff=0
+
+[ProjectLog]
+Days=4
+D1=04-04-2019
+D1_L=8
+D1_L1=[62515]Project Opened.
+D1_L2=[62939]Started Editing.
+D1_L3=[65188]Stopped Editing.
+D1_L4=[67487]Started Editing.
+D1_L5=[68275]Stopped Editing.
+D1_L6=[68347]Started Editing.
+D1_L7=[68667]Stopped Editing.
+TotalEdit=80
+TotalDebug=0
+D1_E=41
+D1_D=0
+D1_L8=[68707]Project Closed.
+D2=05-04-2019
+D2_L=1
+D2_L1=[27746]Project Opened.
+D3=06-04-2019
+D3_L=1
+D3_L1=[33260]Project Opened.
+D4=07-04-2019
+D4_L=32
+D4_L1=[29398]Project Opened.
+D4_L2=[31160]Started Editing.
+D4_L3=[31765]Stopped Editing.
+D4_L4=[31802]Started Editing.
+D4_L5=[32102]Stopped Editing.
+D4_L6=[32290]Started Editing.
+D4_L7=[32880]Stopped Editing.
+D4_L8=[33293]Started Editing.
+D4_L9=[33892]Stopped Editing.
+D4_L10=[33931]Started Editing.
+D4_L11=[34095]Stopped Editing.
+D4_E=39
+D4_D=0
+D4_L12=[34095]Project Closed.
+D4_L13=[38398]Project Opened.
+D4_L14=[38458]Started Editing.
+D4_L15=[38837]Stopped Editing.
+D4_L16=[38870]Started Editing.
+D4_L17=[39170]Stopped Editing.
+D4_L18=[39287]Started Editing.
+D4_L19=[39611]Stopped Editing.
+D4_L20=[39672]Project Closed.
+D4_L21=[50038]Project Opened.
+D4_L22=[50083]Started Editing.
+D4_L23=[51245]Stopped Editing.
+D4_L24=[51541]Started Editing.
+D4_L25=[52022]Stopped Editing.
+D4_L26=[52356]Started Editing.
+D4_L27=[52748]Stopped Editing.
+D4_L28=[52797]Started Editing.
+D4_L29=[53097]Stopped Editing.
+D4_L30=[55768]Project Closed.
+D4_L31=[61732]Project Opened.
+D4_L32=[62947]Project Closed.
+
+[Opened Files]
+1=main.c
+t1=37
+2=main.h
+t2=1
+Count=2
+[main.c]
+Type=4
+
+[defines]
+buildcount=30
+[Units]
+Count=1
+1=main (main)
